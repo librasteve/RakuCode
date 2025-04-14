@@ -6,7 +6,8 @@
   "build-depends": [
   ],
   "depends": [
-    "Cromponent"
+    "Cromponent",
+    "UUID::V4"
   ],
   "description": "A L<Cromponent|https://github.com/FCO/Cromponent> for raku code (WiP)",
   "license": "Artistic-2.0",
