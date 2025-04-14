@@ -7,7 +7,8 @@
   ],
   "depends": [
     "Cromponent",
-    "UUID::V4"
+    "UUID::V4",
+    "CSS::Writer"
   ],
   "description": "A L<Cromponent|https://github.com/FCO/Cromponent> for raku code (WiP)",
   "license": "Artistic-2.0",
